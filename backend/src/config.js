@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "The After Life Club";
-const description = "The After Life club is a skull collection of 10,000 NFTs and is a venture of an experience where you can feel what life after death is. Your afterlife skull gives you access to exclusive benefits such as adventures where members can travel through time and experience life after death.";
+const description = "The After Life Club is a skull collection of 10,000 NFTs and is a venture of an experience where you can feel what life after death is. Your afterlife skull gives you access to exclusive benefits such as adventures where members can travel through time and experience life after death.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
